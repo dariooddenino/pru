@@ -1,0 +1,4 @@
+:set -DDEVELOPMENT
+:set -fobject-code
+:l app/DevelMain.hs
+update
